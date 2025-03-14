@@ -20,6 +20,7 @@ library(MASS)           # For Box-Cox
 library(rmarkdown)      # For report generation
 library(DBI)            # For database connections
 library(shinyWidgets)
+library(rsconnect)
 
 # 1. Define UI
 ui <- fluidPage(

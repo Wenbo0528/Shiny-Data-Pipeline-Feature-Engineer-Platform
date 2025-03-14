@@ -1,0 +1,12 @@
+name: Shiny-Data-Pipeline-and-Feature-Engineering-Platform
+title: Shiny-Data-Pipeline-and-Feature-Engineering-Platform
+username: wenbo0528
+account: wenbo0528
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14250443
+bundleId: 9946209
+url: https://wenbo0528.shinyapps.io/Shiny-Data-Pipeline-and-Feature-Engineering-Platform/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
