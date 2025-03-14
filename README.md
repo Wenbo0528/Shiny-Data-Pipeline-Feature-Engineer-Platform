@@ -1,4 +1,4 @@
-# 5243project2_team5: Data Explorer & Comparison Tool
+# Shiny-Data-Pipeline-and-Feature-Engineering-Platform
 
 ## Project Overview
 This project is a comprehensive web application built with **R Shiny**. It streamlines the data workflow by integrating **data upload**, **cleaning & preprocessing**, **feature engineering**, **exploratory data analysis (EDA)**, and **downloading** functions into one interactive platform. Users can either upload local files or use built-in R datasets.
